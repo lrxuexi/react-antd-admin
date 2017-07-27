@@ -14,7 +14,7 @@
 const sidebarMenu = [
   {
     key: 'index',  // route时url中的值
-    name: '孙中熙在',  // 在菜单中显示的名称
+    name: '测试愿意',  // 在菜单中显示的名称
     icon: 'smile',  // 图标是可选的
     child: [
       {
